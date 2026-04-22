@@ -20,8 +20,8 @@
     </dependency>
     <dependency>
       <groupId>com.zhtc.thirdparty</groupId>
-      <artifactId>kssdk-ad-5.1.20.1-publishRelease-a40be1a093</artifactId>
-      <version>5.1.20.1</version>
+      <artifactId>kssdk-ct-5.3.20.1-publishRelease-63561cb76d</artifactId>
+      <version>5.3.20.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
