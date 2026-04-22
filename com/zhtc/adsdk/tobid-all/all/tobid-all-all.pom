@@ -102,5 +102,17 @@
       <version>4.8.5</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.zhtc.thirdparty</groupId>
+      <artifactId>XHSDK_3.0.1</artifactId>
+      <version>3.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.zhtc.thirdparty</groupId>
+      <artifactId>XHToBidAdapter_3.0.1</artifactId>
+      <version>3.0.1</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
