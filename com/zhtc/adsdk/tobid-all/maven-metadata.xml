@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zhtc.adsdk</groupId>
+  <artifactId>tobid-all</artifactId>
+  <versioning>
+    <latest>all</latest>
+    <release>all</release>
+    <versions>
+      <version>all</version>
+    </versions>
+    <lastUpdated>20260429074229</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.zhtc.adsdk</groupId>
+  <artifactId>tobid-kuaishou</artifactId>
+  <version>5.3.20.1-4.8.6</version>
+  <packaging>pom</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.zhtc.thirdparty</groupId>
+      <artifactId>kssdk-ct-5.3.20.1-publishRelease-63561cb76d</artifactId>
+      <version>5.3.20.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.zhtc.thirdparty</groupId>
+      <artifactId>windmill-kuaishou-adapter-5.1.20.1-4.8.6</artifactId>
+      <version>4.8.6</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
